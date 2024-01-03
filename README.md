@@ -42,7 +42,7 @@ const spells = ["🔮 Magic Debugging", "💻 Code Elegance", "🚀 Performance 
 Let's embark on this coding adventure together! Feel free to reach out:
 
 - 📧 Email: iam@akbarsahata.id
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/akbarsahata)
-- 💼 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/akbarsahata/)
+- 🐦 Twitter: [@akbarsahata](https://twitter.com/akbarsahata)
+- 💼 LinkedIn: [akbar sahata](https://www.linkedin.com/in/akbarsahata/)
 
 Remember, in the world of code, every line is a story waiting to be told. Happy coding! 🚀📜
