@@ -22,7 +22,7 @@ const backendEngineer = {
 ## Skills & Spells 🧙‍♂️
 
 ```typescript
-const skills = ["TypeScript", "Node.js", "Express", "SQL", "REST APIs"];
+const skills = ["TypeScript", "Node.js", "Fastify", "SQL", "REST APIs"];
 const spells = ["🔮 Magic Debugging", "💻 Code Elegance", "🚀 Performance Boosting"];
 ```
 
