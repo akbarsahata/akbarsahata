@@ -1,48 +1,57 @@
 # Hello, World! 👋
 
-Welcome to the kingdom of code, where TypeScript reigns and curiosity conquers all! 🏰✨
+Welcome to the kingdom of code, where TypeScript reigns, architecture matters, and curiosity drives innovation! 🏰✨
 
 ## About Me
 
 ```typescript
-const backendEngineer = {
-  name: "akbar_sahata",
+const fullstackEngineer = {
+  name: "Akbar Sahata Sakapertana",
+  specialties: ["Fullstack Development", "AI/ML Integrations"],
   favoriteLanguage: "TypeScript",
   hobbies: ["Coding", "Learning Japanese", "Anime & Manga Enthusiast"],
-  mantra: "console.log('Keep coding and stay curious!');",
+  mantra: "console.log('Keep building, keep learning, stay curious!');",
 };
 ```
 
+I’m a **Fullstack Software Engineer** with a strong foundation in backend systems and frontend craft, currently exploring how **AI can transform business processes and developer experience**. From building systems from scratch to leading architectural overhauls, I thrive at the intersection of **robust engineering practices and emerging AI capabilities**.
+
 ## Current Quests 🚀
 
-- 🌸 Mastering the art of TypeScript sorcery.
-- 🎌 Learning Japanese to understand anime without subtitles.
-- 📚 Expanding my ever-growing library of knowledge.
+* 🧑‍💻 Strengthening my fullstack craft (Next.js, tRPC, PostgreSQL, and beyond).
+* 🤖 Experimenting with AI-powered solutions for automation, translation, and knowledge management.
+* 🎌 Learning Japanese to enjoy anime and manga without subtitles.
+* 📚 Advancing my master’s research in informatics with a focus on AI/ML.
 
 ## Skills & Spells 🧙‍♂️
 
 ```typescript
-const skills = ["TypeScript", "Node.js", "Fastify", "SQL", "REST APIs"];
-const spells = ["🔮 Magic Debugging", "💻 Code Elegance", "🚀 Performance Boosting"];
+const skills = [
+  "TypeScript", "Node.js", "Next.js", "tRPC",
+  "SQL & NoSQL Databases", "REST & GraphQL APIs",
+  "Cloud (AWS, GCP)", "CI/CD Pipelines"
+];
+const spells = ["🔮 System Architecture", "💻 Code Quality",
+                "🚀 Scalability & Performance", "🤝 Mentorship"];
 ```
 
 ## Achievements Unlocked 🏆
 
-- ⚙️ Built a backend fortress from scratch.
-- 📚 Read 1000+ manga chapters without blinking.
-- 📺 Watched anime until my eyes sparkled like stars.
+* ⚙️ Built and scaled backend systems into **core, business-critical platforms**.
+* 🌍 Prototyped **multi-region deployments** to support global growth.
+* 🔎 Enhanced observability with **OpenTelemetry + Grafana** for better performance insights.
+* 📚 Mentored engineers and taught web development fundamentals at Hacktiv8.
 
 ## Fun Facts 🎉
 
-- 🤖 Believes robots will eventually learn TypeScript and code their own existence.
-- 🎸 Air guitar champion when compiling code.
+* 🤖 Believes the future includes AI-assisted engineers coding alongside us.
+* 📚 Guilty of tsundoku—collecting more books than I can finish reading.
+* 🎌 Enjoys anime and manga as a way to relax and pick up more Japanese naturally.
 
 ## Connect with Me 🌐
 
-Let's embark on this coding adventure together! Feel free to reach out:
+Let’s connect and collaborate:
 
-- 📧 Email: iam@akbarsahata.id
-- 🐦 Twitter: [@akbarsahata](https://twitter.com/akbarsahata)
-- 💼 LinkedIn: [akbar sahata](https://www.linkedin.com/in/akbarsahata/)
-
-Remember, in the world of code, every line is a story waiting to be told. Happy coding! 🚀📜
+* 💼 [LinkedIn](https://www.linkedin.com/in/akbarsahata/)
+* 🌐 [Website](https://akbarsahata.id)
+* 🧑🏻‍💻 [Blog](https://blog.akbarsahata.id)
